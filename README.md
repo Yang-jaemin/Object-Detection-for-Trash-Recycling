@@ -3,7 +3,7 @@
 
 ## 🔎 Project Overview
 
-![스크린샷 2023-08-18 오후 7.06.48](/Users/yang/Desktop/github/Yang-jaemin.github.io/Yang-jaemin.github.io/images/스크린샷 2023-08-18 오후 7.06.48.png)
+<img width="824" alt="스크린샷 2023-08-18 오후 7 09 19" src="https://github.com/Yang-jaemin/Object-Detection-for-Trash-Recycling/assets/108872973/e6503db7-71b1-491f-bad1-c40eb5280d9c">
 
 
 
