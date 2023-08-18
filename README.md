@@ -1,4 +1,4 @@
-# 🚯 Trash Recycling Object Detection
+# 🚯 Object Detection for Trash Recycling
 
 
 ## 🔎 Project Overview
