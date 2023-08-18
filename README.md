@@ -48,7 +48,7 @@
 
 ## 📎 Experiment
 
-실험 관련 세부사항은 [랩업리포트](Lv2_Object_Detection_WrapUp_jm.pdf) 참고.
+실험 관련 세부사항은 [랩업리포트](Lv2_Object_Detection_WrapUp_jaemin.pdf) 참고.
 
 <br/>
 
